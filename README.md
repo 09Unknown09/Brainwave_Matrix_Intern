@@ -34,7 +34,7 @@ To install the required libraries, you can use `pip`:
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/phishing-link-checker.git
+git clone https://github.com/09Unknown09/phishing-link-checker.git
 ```
 ```
 cd phishing-link-checker
