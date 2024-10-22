@@ -34,10 +34,10 @@ To install the required libraries, you can use `pip`:
 1. Clone the repository:
 
 ```
-git clone https://github.com/09Unknown09/phishing-link-checker.git
+git clone https://github.com/09Unknown09/Phishing-Link-Scanner.git
 ```
 ```
-cd phishing-link-checker
+cd Phishing-Link-Scanner
 ```
 2. Run the script:
 ```
